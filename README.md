@@ -58,6 +58,7 @@
     alt="Project preview" 
     width="700"
   />
+  
 
   <p>
     Short description of the project. What problem it solves, what makes it interesting,
@@ -86,10 +87,11 @@
     alt="Project preview" 
     width="700"
   />
-  <video width="700" controls>
+  <video width="320" height="240" controls>
     <source src="./images/Floworkerz_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+    <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
   <p>
     Short description of the project and your role. Keep it simple and clear.
   </p>
