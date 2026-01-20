@@ -39,6 +39,72 @@
 
 <hr/>
 
+<hr/>
+
+<h2>🚧 Projects</h2>
+
+<p>
+  A selection of projects I've worked on — side projects, experiments and real-world applications.
+</p>
+
+<br/>
+
+<!-- PROJECT 1 -->
+<div>
+  <h3>🧠 Project name</h3>
+
+  <img 
+    src="path/to/your/image.png" 
+    alt="Project preview" 
+    width="700"
+  />
+
+  <p>
+    Short description of the project. What problem it solves, what makes it interesting,
+    and what you focused on while building it.
+  </p>
+
+  <p>
+    <strong>Tech:</strong> React • Node.js • PostgreSQL • Docker
+  </p>
+
+  <p>
+    🔗 <a href="https://github.com/your-repo" target="_blank">Source code</a>
+    &nbsp;|&nbsp;
+    🌍 <a href="https://your-live-demo.com" target="_blank">Live demo</a>
+  </p>
+</div>
+
+<br/><br/>
+
+<!-- PROJECT 2 -->
+<div>
+  <h3>⚡ Project name</h3>
+
+  <img 
+    src="path/to/your/image.png" 
+    alt="Project preview" 
+    width="700"
+  />
+  <video width="700" controls>
+    <source src="./images/Floworkerz_demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>
+    Short description of the project and your role. Keep it simple and clear.
+  </p>
+
+  <p>
+    <strong>Tech:</strong> TypeScript • Angular • API REST
+  </p>
+
+  <p>
+    🔗 <a href="https://github.com/your-repo" target="_blank">Source code</a>
+  </p>
+</div>
+
+<hr/>
+
 <h2>🛠️ Tech stack</h2>
 
 <p><strong>Frontend</strong></p>
