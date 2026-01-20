@@ -70,8 +70,9 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
 <div>
   <h3>PokemonGo like (2025)</h3>
 
-  <img width="20%" height="20%" alt="POLYPOKE_logo" src="https://github.com/user-attachments/assets/e17d36ac-8329-4bc7-8d59-16924f36dd28" />
-
+  <p align="center">
+    <img width="20%" height="20%" alt="POLYPOKE_logo" src="https://github.com/user-attachments/assets/e17d36ac-8329-4bc7-8d59-16924f36dd28" />
+  </p>
 
   <p>
     The aim of the application is to reproduce to some extent the PokémonGO application. The aim is to put into practice our knowledge of setting up a NodeJS server and developing Android applications. This project is part of my Internet and Mobility course. This project is constituted of tree parts: the server, the android application and a web site.
