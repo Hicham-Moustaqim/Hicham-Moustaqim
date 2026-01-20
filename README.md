@@ -80,6 +80,11 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
   
   <img width="768" height="758" alt="image2" src="https://github.com/user-attachments/assets/50bbd702-9700-4345-9f3b-7745229e11b1" />
 
+  <p align="center">
+    Some screenshot of the android application.
+  </p>
+  <img width="645" height="304" alt="image1" src="https://github.com/user-attachments/assets/fd2fdb75-845c-49ce-bd36-94e999ef47d9" />
+  
 </div>
 
 <hr/>
