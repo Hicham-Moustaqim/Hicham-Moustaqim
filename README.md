@@ -59,6 +59,8 @@
     width="700"
   />
   
+https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
+
 
   <p>
     Short description of the project. What problem it solves, what makes it interesting,
@@ -77,24 +79,6 @@
 </div>
 
 <br/><br/>
-
-<!-- PROJECT 2 -->
-<div>
-  <h3>⚡ Project name</h3>
-
-  <img 
-    src="path/to/your/image.png" 
-    alt="Project preview" 
-    width="700"
-  />
-  <video width="320" height="240" controls>
-    <source src="./images/Floworkerz_demo.mp4" type="video/mp4">
-    <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-  <p>
-    Short description of the project and your role. Keep it simple and clear.
-  </p>
 
   <p>
     <strong>Tech:</strong> TypeScript • Angular • API REST
