@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
 <div>
   <h3>PokemonGo like (2025)</h3>
 
-  <img width="988" height="1184" alt="POLYPOKE_logo" src="https://github.com/user-attachments/assets/e17d36ac-8329-4bc7-8d59-16924f36dd28" />
+  <img width="20%" height="20%" alt="POLYPOKE_logo" src="https://github.com/user-attachments/assets/e17d36ac-8329-4bc7-8d59-16924f36dd28" />
 
 
   <p>
