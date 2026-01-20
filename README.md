@@ -39,8 +39,6 @@
 
 <hr/>
 
-<hr/>
-
 <h2>🚧 Projects</h2>
 
 <p>
@@ -51,7 +49,7 @@
 
 <!-- PROJECT 1 -->
 <div>
-  <h3><a href="https://app.floworkerz.xyz/">🧠 Floworkerz (2025)</a></h3>
+  <h3><a href="https://app.floworkerz.xyz/">Floworkerz (2025)</a></h3>
   
   
 https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
@@ -67,6 +65,21 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
 </div>
 
 <br/><br/>
+
+<!-- PROJECT 2 -->
+<div>
+  <h3>PokemonGo like (2025)</h3>
+
+  <img width="988" height="1184" alt="POLYPOKE_logo" src="https://github.com/user-attachments/assets/e17d36ac-8329-4bc7-8d59-16924f36dd28" />
+
+
+  <p>
+    The aim of the application is to reproduce to some extent the PokémonGO application. The aim is to put into practice our knowledge of setting up a NodeJS server and developing Android applications. This project is part of my Internet and Mobility course. This project is constituted of tree parts: the server, the android application and a web site.
+  </p>
+  
+  <img width="768" height="758" alt="image2" src="https://github.com/user-attachments/assets/50bbd702-9700-4345-9f3b-7745229e11b1" />
+
+</div>
 
 <hr/>
 
