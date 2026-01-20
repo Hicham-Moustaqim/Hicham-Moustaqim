@@ -52,42 +52,21 @@
 <!-- PROJECT 1 -->
 <div>
   <h3><a href="https://app.floworkerz.xyz/">🧠 Floworkerz (2025)</a></h3>
-
-  <img 
-    src="path/to/your/image.png" 
-    alt="Project preview" 
-    width="700"
-  />
+  
   
 https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
 
 
   <p>
-    Short description of the project. What problem it solves, what makes it interesting,
-    and what you focused on while building it.
+    Floworkerz is a collaborative productivity platform designed to help people stay focused while working or studying together. The app is built around real-time focus sessions where users can join shared work rooms, follow a timer, interact via live chat, and stay motivated through a collective effect.
   </p>
 
   <p>
-    <strong>Tech:</strong> React • Node.js • PostgreSQL • Docker
-  </p>
-
-  <p>
-    🔗 <a href="https://github.com/your-repo" target="_blank">Source code</a>
-    &nbsp;|&nbsp;
-    🌍 <a href="https://your-live-demo.com" target="_blank">Live demo</a>
+    <strong>Tech:</strong> React • Node.js • PostgreSQL • AWS • Websockets • TailwindCSS
   </p>
 </div>
 
 <br/><br/>
-
-  <p>
-    <strong>Tech:</strong> TypeScript • Angular • API REST
-  </p>
-
-  <p>
-    🔗 <a href="https://github.com/your-repo" target="_blank">Source code</a>
-  </p>
-</div>
 
 <hr/>
 
