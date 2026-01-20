@@ -7,7 +7,7 @@
 
 <hr/>
 
-<h2>🧠 About me</h2>
+<h1>🧠 About me</h1>
 
 <p>
   I'm a <strong>full stack developer</strong> and software engineer, graduated from <strong>Polytech Tours</strong> 
@@ -27,7 +27,7 @@
 
 <hr/>
 
-<h2>🚀 What I like building</h2>
+<h1>🚀 What I like building</h1>
 
 <ul>
   <li>🌐 Web applications (front + back)</li>
@@ -39,7 +39,7 @@
 
 <hr/>
 
-<h2>🚧 Projects</h2>
+<h1>🚧 Projects</h1>
 
 <p>
   A selection of projects I've worked on — side projects, experiments and real-world applications.
@@ -49,7 +49,7 @@
 
 <!-- PROJECT 1 -->
 <div>
-  <h3><a href="https://app.floworkerz.xyz/">Floworkerz (2025)</a></h3>
+  <h2><a href="https://app.floworkerz.xyz/">💻 Floworkerz (2025)</a></h2>
   
   
 https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
 
 <!-- PROJECT 2 -->
 <div>
-  <h3>PokemonGo like (2025)</h3>
+  <h2>📱 PokemonGo-like (2022)</h2>
 
   <p align="center">
     <img width="20%" height="20%" alt="POLYPOKE_logo" src="https://github.com/user-attachments/assets/e17d36ac-8329-4bc7-8d59-16924f36dd28" />
@@ -88,8 +88,33 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
   <p align="center">
     <img width="645" height="304" alt="image1" src="https://github.com/user-attachments/assets/fd2fdb75-845c-49ce-bd36-94e999ef47d9" />
   </p>
-  
-  
+
+</div>
+
+<!-- PROJECT 3 -->
+<div>
+  <h2>💡 Image synthesis - illumination system (2023)</h2>
+
+  <p align="center">
+    <img width="20%" height="20%" alt="POLYPOKE_logo" src="https://github.com/user-attachments/assets/e17d36ac-8329-4bc7-8d59-16924f36dd28" />
+  </p>
+
+  <p>
+    From a C++ 3d engine base, I added image rendering to achieve different illumination of the scene.
+  </p>
+
+  <h3>Ray tracer</h3>
+  <p align="center">
+    <img width="1299" height="645" alt="RayTracer" src="https://github.com/user-attachments/assets/05b3e1f8-dc29-424b-8fcd-d80aab79e608" />
+  </p>
+
+  <p align="center">
+    Some screenshot of the android application.
+  </p>
+  <p align="center">
+    <img width="645" height="304" alt="image1" src="https://github.com/user-attachments/assets/fd2fdb75-845c-49ce-bd36-94e999ef47d9" />
+  </p>
+
 </div>
 
 <hr/>
