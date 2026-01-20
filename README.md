@@ -51,7 +51,7 @@
 
 <!-- PROJECT 1 -->
 <div>
-  <h3>🧠 Project name</h3>
+  <h3><a href="https://app.floworkerz.xyz/">🧠 Floworkerz (2025)</a></h3>
 
   <img 
     src="path/to/your/image.png" 
