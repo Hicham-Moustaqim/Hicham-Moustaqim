@@ -75,11 +75,13 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
   </p>
 
   <p>
-    I was lucky enough to take part in the 13th edition of the Ubisoft Game Lab Competition as part of the Université de Sherbrooke team. The 8 of us had to create an arcade-style game within certain constraints. We came up with an original rogue-like idea on the theme of cooking, in a fun universe where food wants to kill but can also improve your stats. My role in the team was to do the assets and to participate on the level design. I also helped come up with ideas for theme integration, gameplay and procedural generation.
+    I had the opportunity to participate in the 13th edition of the Ubisoft Game Lab Competition as a member of the University of Sherbrooke team. Our team of eight was tasked with creating an arcade-style game under specific constraints. We developed an original roguelike concept centered around cooking, set in a playful universe where food both attacks the player and enhances their stats.
+
+My main responsibilities included creating visual assets and contributing to level design. I also took part in brainstorming and refining ideas related to theme integration, gameplay mechanics, and procedural generation.
   </p>
 
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=jgIqBRt-SDI">Gameplay video by my mate</a>
+    <a href="https://www.youtube.com/watch?v=jgIqBRt-SDI">Here's a Gameplay video</a>
   </p>
 </div>
 
