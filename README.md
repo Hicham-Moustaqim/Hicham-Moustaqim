@@ -7,7 +7,7 @@
 
 <hr/>
 
-<h1>🧠 About me</h1>
+<h1>👀 About me</h1>
 
 <p>
   I'm a <strong>full stack developer</strong> and software engineer, graduated from <strong>Polytech Tours</strong> 
