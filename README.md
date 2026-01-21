@@ -22,7 +22,7 @@
 
 <p>
   I'm especially interested in <strong>clean code</strong>, <strong>scalable systems</strong> 
-  and <strong>products that actually help clients</strong>.
+  and <strong>products that actually suit to clients</strong>.
 </p>
 
 <hr/>
