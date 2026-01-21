@@ -83,6 +83,7 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
   </p>
 </div>
 
+<br/><br/>
 
 <!-- PROJECT 3 -->
 <div>
@@ -108,6 +109,8 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
   </p>
 
 </div>
+
+<br/><br/>
 
 <!-- PROJECT 4 -->
 <div>
