@@ -79,10 +79,6 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
   </p>
 
   <p align="center">
-    <img width="768" height="758" alt="image2" src="https://github.com/user-attachments/assets/50bbd702-9700-4345-9f3b-7745229e11b1" />
-  </p>
-
-  <p align="center">
     <a href="https://www.youtube.com/watch?v=jgIqBRt-SDI">Gameplay video by my mate</a>
   </p>
 </div>
