@@ -68,6 +68,28 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
 
 <!-- PROJECT 2 -->
 <div>
+  <h2>🥖 Cooking Overtime ! (13th edition of the Ubisoft Game Lab Competition)</h2>
+
+  <p align="center">
+    <img width="1920" height="1080" alt="ImagePresentation" src="https://github.com/user-attachments/assets/821104dc-049f-42f4-aa13-f8de0c4cac43" />
+  </p>
+
+  <p>
+    I was lucky enough to take part in the 13th edition of the Ubisoft Game Lab Competition as part of the Université de Sherbrooke team. The 8 of us had to create an arcade-style game within certain constraints. We came up with an original rogue-like idea on the theme of cooking, in a fun universe where food wants to kill but can also improve your stats. My role in the team was to do the assets and to participate on the level design. I also helped come up with ideas for theme integration, gameplay and procedural generation.
+  </p>
+
+  <p align="center">
+    <img width="768" height="758" alt="image2" src="https://github.com/user-attachments/assets/50bbd702-9700-4345-9f3b-7745229e11b1" />
+  </p>
+
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=jgIqBRt-SDI">Gameplay video by my mate</a>
+  </p>
+</div>
+
+
+<!-- PROJECT 3 -->
+<div>
   <h2>📱 PokemonGo-like (2022)</h2>
 
   <p align="center">
@@ -91,7 +113,7 @@ https://github.com/user-attachments/assets/fe43428f-49f0-46a0-9b0b-0bcd8cefc101
 
 </div>
 
-<!-- PROJECT 3 -->
+<!-- PROJECT 4 -->
 <div>
   <h2>💡 Image synthesis - illumination system (2023)</h2>
 
